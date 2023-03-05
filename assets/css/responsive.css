@@ -140,12 +140,6 @@
         margin-top: 30px;
     }
 
-    .project-single{
-        width: 30%;
-        margin: 2% 1%;
-        border-radius: 1rem;
-    }
-
     .project-modal{
         position: absolute;
         width: 100%;
@@ -355,10 +349,6 @@
 
     .projects-wraper{
         margin-top: 25px;
-    }
-
-    .project-single{
-        width: 30%;
     }
 
     .project-modal{
@@ -583,11 +573,6 @@
 
     .projects-wraper{
         margin-top: 30px;
-    }
-
-    .project-single{
-        width: 44%;
-        margin: 25px 3%;
     }
 
     .project-modal{
