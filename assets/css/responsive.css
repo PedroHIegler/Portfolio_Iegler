@@ -73,7 +73,7 @@
     /*============| SECTION-SKILLS |============*/
 
     section.skills{
-        padding: 40px 5% 100px 5%;
+        padding: 120px 5%;
     }
     
     .skills-wraper{
@@ -133,7 +133,7 @@
     /*============| SECTION-PROJECTS |============*/
 
     section.projects{
-        padding: 40px 5% 100px 5%;
+        padding: 120px 5%;
     }
 
     .projects-wraper{
@@ -167,7 +167,7 @@
     /*============| SECTION-CONTACT |============*/
 
     section.contact{
-        padding: 40px 5% 100px 5%;
+        padding: 120px 5%;
     }
 
     section.contact form{

@@ -288,7 +288,7 @@ section.about > .center{
 /*============| SECTION-SKILLS |============*/
 
 section.skills{
-    padding: 50px 5% 110px 5%;
+    padding: 110px 5%;
 }
 
 .skills-wraper{
@@ -347,7 +347,7 @@ h2.title-singular{
 /*============| SECTION-PROJECTS |============*/
 
 section.projects{
-    padding: 50px 5% 110px 5%;
+    padding: 110px 5%;
 }
 
 section.skills > .center{
@@ -395,7 +395,7 @@ h2.more-projects{
 /*============| SECTION-CONTACT |============*/
 
 section.contact{
-    padding: 50px 5% 110px 5%;
+    padding: 110px 5%;
 }
 
 .wraper-contact{
