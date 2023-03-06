@@ -268,7 +268,7 @@
     /*============| SECTION-ABOUT |============*/
 
     section.about{
-        padding: 120px 5%;
+        padding: 40px 5% 90px 5%;
     }
 
     h2.title-about, h2.title-skills, h2.title-contact, h2.title-projects{
@@ -472,7 +472,7 @@
     /*============| SECTION-ABOUT |============*/
 
     section.about{
-        padding: 110px 5%;
+        padding: 40px 5% 90px 5%;
     }
 
     h2.title-about, h2.title-skills, h2.title-contact, h2.title-projects{
@@ -728,7 +728,7 @@
     }
 
     section.about{
-        padding: 100px 5%;
+        padding: 50px 5% 90px 5%;
     }
 
     h2.title-about, h2.title-skills, h2.title-contact, h2.title-projects{
@@ -997,7 +997,7 @@
     }
 
     section.about{
-        padding: 90px 5%;
+        padding: 30px 5% 80px 5%;
     }
 
     .info-about{
