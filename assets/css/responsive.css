@@ -490,7 +490,7 @@
 
     .info-about{
         width: 100%;
-        margin-top: 25px;
+        margin-top: 15px;
     }
 
     .img-about{
@@ -684,7 +684,7 @@
     .text-home{
         width: 100%;
         text-align: center;
-        margin-top: 19px;
+        margin-top: 15px;
     }
     
     .text-home h2{
@@ -738,7 +738,7 @@
 
     .info-about{
         width: 100%;
-        margin-top: 30px;
+        margin-top: 15px;
     }
 
     .img-about{
@@ -956,7 +956,7 @@
     .text-home{
         width: 100%;
         text-align: center;
-        margin-top: 19px;
+        margin-top: 10px;
     }
     
     .text-home h2{
@@ -1181,5 +1181,10 @@
 
     .messageTelefone p{
         bottom: 45%;
+    }
+
+    .project-single h2{
+        padding: 7px 17px;
+        font-size: 12px;
     }
 }
