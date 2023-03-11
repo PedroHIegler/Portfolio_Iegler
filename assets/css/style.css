@@ -151,7 +151,7 @@ header > .center{
 /*============| SECTION-HOME |============*/
 
 section.home{
-    padding: 230px 5%;
+    padding: 200px 5% 100px 5%;
 }
 
 section.home > .center{
